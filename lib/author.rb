@@ -9,7 +9,6 @@ class Author
   
   def initialize(name)
     @name=name
-    @post_count=post_count
     @@all << self
   end
   
