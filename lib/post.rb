@@ -8,11 +8,6 @@ def initialize(title)
   @@all << self
 end
 
-def self.count
-  @@page_count
-  
-
-
 def self.all
   @@all
 end
