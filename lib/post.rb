@@ -8,7 +8,7 @@ def initialize(title)
   @@all << self
 end
 
-
+def self.count
 
 
 def self.all
