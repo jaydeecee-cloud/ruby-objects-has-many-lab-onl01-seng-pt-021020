@@ -1,6 +1,6 @@
 class Author
   attr_accessor :name
-  @@count = 0
+  @@post_count = 0
   @@all = []
   
   def self.all
