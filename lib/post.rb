@@ -9,6 +9,8 @@ def initialize(title)
 end
 
 def self.count
+  @@page_count
+  
 
 
 def self.all
